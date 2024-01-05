@@ -1,0 +1,47 @@
+h1{
+  color: red;
+text-align: center;
+margin-top: 70px;
+}
+
+img{
+  margin-left: 150px;
+  margin-top: 40px;
+
+  
+}
+h5{
+  text-align: center;
+}
+
+a{
+ color:orangered;
+ font-family: 'Times New Roman', Times, serif;
+ margin-left: 15px;
+ font-size: larger
+
+}
+a:hover {
+  color:purple;
+
+}
+
+.demo{
+  text-align: justify;
+ font-family: Arial, Helvetica, sans-serif;
+ padding: 10px 90px;
+}
+.link{
+  padding-left: 700px;
+  color: blue;
+  
+}
+.demo1{
+  padding-left: 760px;
+  padding-bottom: 30px;
+
+}
+.hai{
+  padding-left: 725px;
+  color: blue;
+}
